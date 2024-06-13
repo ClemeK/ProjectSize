@@ -14,8 +14,8 @@ currently, it will work on the following file ending in:
 
 When you run the application, you can then select a project solution or a folder,
 
-![Image1] (https://github.com/ClemeK/ProjectSize/tree/master/HowBig/Capture1.png)
+![Image1](https://github.com/ClemeK/ProjectSize/tree/master/HowBig/Capture1.png)
 
 and when you select the [GO] button the application will display the files and a breakdown of the file's content (Total Lines, Blank Lines, Comment Lines, Code Line). At the bottom of the screen, you will get the totals.
 
-![Image2] (https://github.com/ClemeK/ProjectSize/tree/master/HowBig/Capture2.png)
+![Image2](https://github.com/ClemeK/ProjectSize/tree/master/HowBig/Capture2.png)
