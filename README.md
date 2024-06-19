@@ -14,8 +14,10 @@ currently, it will work on the following file ending in:
 
 When you run the application, you can then select a project solution or a folder,
 
-![Main Interface](https://github.com/ClemeK/ProjectSize/HowBig/Capture1.png "Main Interface")
+![Main Interface](https://github.com/ClemeK/ProjectSize/blob/master/HowBig/Capture1.PNG) "Main Interface")
+
+https://github.com/ClemeK/ProjectSize/blob/master/HowBig/Capture1.PNG
 
 and when you select the [GO] button the application will display the files and a breakdown of the file's content (Total Lines, Blank Lines, Comment Lines, Code Line). At the bottom of the screen, you will get the totals.
 
-![Populated Interface](https://github.com/ClemeK/ProjectSize/HowBig/Capture2.png "Populated Interface")
+![Populated Interface](https://github.com/ClemeK/ProjectSize/blob/master/HowBig/Capture2.PNG "Populated Interface")
